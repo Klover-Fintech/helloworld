@@ -1,0 +1,16 @@
+PODS:
+  - helloworld (0.0.1)
+
+DEPENDENCIES:
+  - helloworld (from `.`)
+
+EXTERNAL SOURCES:
+  helloworld:
+    :path: "."
+
+SPEC CHECKSUMS:
+  helloworld: c1aca2dd3658a692890d3ce4dfbe40495d339149
+
+PODFILE CHECKSUM: 56925681dc2169f86e7a14e52150c2c697651d2b
+
+COCOAPODS: 1.11.3

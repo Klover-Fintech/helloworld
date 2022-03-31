@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "license": "...",
+  "authors": {
+    "Steve Shenouda": "steve.shenouda@joinklover.com"
+  },
+  "homepage": "...",
+  "summary": "...",
+  "source": {
+    "git": "https://github.com/Klover-Fintech/helloworld.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "helloworld/helloworld/helloworld.{h,m}",
+  "platforms": {
+    "ios": "11.0",
+    "osx": "10.10"
+  }
+}
